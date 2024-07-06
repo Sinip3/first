@@ -1,1 +1,0 @@
-print("vscode를 연결했습니다")
